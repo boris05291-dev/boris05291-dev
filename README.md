@@ -10,3 +10,4 @@
 * [👉 觀看 Live Demo](https://boris05291-dev.github.io/shih-chien/home.html) | [👉 檢視原始碼](https://github.com/boris05291-dev/shih-chien)
 ### 📬 聯絡我
 * 📧 Email: a115510310@gm7.usc.edu.tw
+* 📧 Email: boris05291@gmail.com
