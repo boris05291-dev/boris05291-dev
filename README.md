@@ -7,7 +7,6 @@
 這是我近期完成的綜合網頁專案，涵蓋了大學介紹與校務資訊平台。
 * **亮點:** 導入模組化架構（透過 Fetch API 動態載入 Header/Footer）、響應式設計 (RWD)、ScrollSpy 滾動監聽導覽，以及客製化的 CSS 變數與微互動特效。
 * [👉 查看 Live Demo](https://boris05291-dev.github.io/shih-chien/home.html) | [👉 查看原始碼](https://github.com/boris05291-dev/shih-chien)
-#### [Discord 機器人專案] (如果有連結可替換於此)
-* **亮點:** (簡述機器人的功能或使用的技術，如 Node.js 或 Python)
+* **亮點:** 
 ### 📬 聯絡我 (Contact)
 * 📧 Email: boris05291@gmail.com
