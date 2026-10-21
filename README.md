@@ -5,7 +5,7 @@
 * Git, GitHub Pages, Web Components (Fetch API)
 ### 🚀 精選專案
 **[實踐大學 - 網頁程式設計總作業](https://boris05291-dev.github.io/shih-chien/home.html)**
-這是我近期的期末網頁專案，實作了大學校務資訊平台。[cite: 2]
+這是我近期的網頁專案，實作了大學校務資訊平台。[cite: 2]
 * **亮點**: 導入模組化架構（透過 Fetch API 動態載入 Header/Footer）、響應式設計、ScrollSpy 滾動監聽導覽，以及客製化的 CSS 變數與微互動特效。[cite: 2, 4]
 * [👉 觀看 Live Demo](https://boris05291-dev.github.io/shih-chien/home.html) | [👉 檢視原始碼](https://github.com/boris05291-dev/shih-chien)
 ### 📬 聯絡我
